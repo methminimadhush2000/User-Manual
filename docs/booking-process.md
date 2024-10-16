@@ -2,11 +2,11 @@
 
 ## Searching Trains
 
-* Select starting station, destination station and date when it's need to make a booking.
+* Select your departure station, destination station, and travel date to start the booking process from the **Home Page**.
 * Click on ***Search*** button.
 
 ## Selecting a shedule
-* Select a shedule according to the preference.
+* Select a shedule according to the preference from the list of shedules.
 
 ![alt text](/assets/search-shedules.png)
 
@@ -19,8 +19,8 @@
 
 ## Selecting seats
 
-* Select seats on the preference on seat layout. Fee is calculated according to the number of seats selected and **Trip Summary** is shown on right hand side.
-* Click on ***Checkout*** button.
+* Select your preferred seats from the seat layout. The total fee is calculated based on the number of seats selected, with the **Trip Summary** displayed on the right side.
+* Click on the ***Checkout*** button.
 
 ![alt text](assets/seat-selection.png)
 
@@ -29,4 +29,4 @@
 * Enter card details and confirm booking within 5 minutes of seat selection.
 
 ![alt text](assets/card-details.png)
-* An email will be sent for a successful booking with attached e-tickets.
+* The system will send a confirmation email for successful bookings, including attached e-tickets.

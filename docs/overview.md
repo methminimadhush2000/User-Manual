@@ -1,10 +1,9 @@
-# Welcome to TrainEase Platform Documentation
+# Welcome to TrainEase Platform Documentation !!
 
-Welcome to the user manual for the TrainEase Platform. This guide will help you navigate the platform, create projects, manage forms, and collect data efficiently.
+This guide will help you efficiently navigate through this platform, including making bookings, viewing and cancelling bookings, and updating your profile.
 
 Use the navigation on the left to explore different sections of the manual.
 
 ## Getting Started
-To get started with the software, visit the [Getting Started Guide](/overview.md).
-
+To get started with the software, visit the **Next Page**.
 

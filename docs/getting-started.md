@@ -11,27 +11,34 @@
 
 
 ## Login
-  * Click on the Login tab on the Navbar.
+  * Click the **Login** tab in the navigation bar.
 
   ![alt text](/assets/login.png)
-  * Fill Username and Password fields.
+  * Fill Username and Password fields on the login interface.
 
-  * Click ***Login*** button.
-  * After successful login you will be redirected to Home page
+  * Click the ***Login*** button.
+  * After a successful login you will be redirected to Home page.
 
 ## Register
+  * Click the ***Register here*** option on the login interface.
+
 ![alt text](/assets/register.png)
   * Fill username, Email, Phone Number and Password fields to create a new account.
-  * Click ***Register*** button.
-  * After successful creation of new account will be redirected to Home Page
+  * Click the ***Register*** button.
+  * After a successful creation of new account proceed with the login process.
+
 ## Forgot Password ##
-  * Click on Forgot password option on the login interface.
-  * ![alt text](/assets/forget-password.png)
-  * Fill your email adress in the field.
-  * Click on the link received via email.
+  * Click the ***Forgot Password*** option on the login interface.
+  * Fill your email adress on the new interface.
+
+   ![alt text](/assets/forget-password.png)
+  * Click the ***Send Reset Link*** button.
+  * The system will send an email with a link to reset your password. Click the link to proceed.
   * Enter new password on the Reset Password interface.
-  * Click on the ***Reset password*** button. 
-  * After successfully reseting the password click on ***Back to Login*** and proceed with the login process again.
+
   ![alt text](/assets/forget-password-new.png) 
+  * Click the ***Reset Password*** button. 
+  * After successfully resetting the password click on ***Back to Login*** and proceed with the login process.
+  
 
 
